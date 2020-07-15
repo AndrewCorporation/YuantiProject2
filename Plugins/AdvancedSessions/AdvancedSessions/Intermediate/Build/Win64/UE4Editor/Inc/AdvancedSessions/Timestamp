@@ -1,20 +1,20 @@
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
-C:\Users\Yuanti\Documents\Unreal Projects\SteamRdy\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
+D:\Users\Adrian\Documents\GitHub\YuantiProject2\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
